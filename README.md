@@ -7,7 +7,7 @@ A curated collection of my solutions to competitive programming problems across 
 - [Codeforces](https://codeforces.com/)
 - [LeetCode](https://leetcode.com/)
 - [CSES](https://cses.fi/problemset/)
-- [USACO] (https://usaco.org/)
+- [USACO](https://usaco.org/)
 - [beecrowd](https://judge.beecrowd.com/)
 
 ## Directory Structure
